@@ -1,0 +1,18 @@
+body{
+    background-color: burlywood;
+}
+div.a{
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.b{
+    font-family: 'Courier New', Courier, monospace;
+}
+div.c{
+    font-family: 'Courier New', Courier, monospace;
+}
+div.d{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
